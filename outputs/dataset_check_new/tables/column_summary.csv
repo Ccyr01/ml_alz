@@ -1,0 +1,29 @@
+column_name,dtype,missing_count,missing_percent
+Country,object,0,0.0
+Age,float64,0,0.0
+Gender,object,0,0.0
+Education Level,float64,0,0.0
+BMI,float64,0,0.0
+Physical Activity Level,object,0,0.0
+Smoking Status,object,0,0.0
+Alcohol Consumption,object,0,0.0
+Diabetes,object,0,0.0
+Hypertension,object,0,0.0
+Cholesterol Level,object,0,0.0
+Family History of Alzheimer’s,object,0,0.0
+Cognitive Test Score,float64,0,0.0
+Depression Level,object,0,0.0
+Sleep Quality,object,0,0.0
+Dietary Habits,object,0,0.0
+Air Pollution Exposure,object,0,0.0
+Employment Status,object,0,0.0
+Marital Status,object,0,0.0
+Genetic Risk Factor (APOE-ε4 allele),object,0,0.0
+Social Engagement Level,object,0,0.0
+Income Level,object,0,0.0
+Stress Levels,object,0,0.0
+Urban vs Rural Living,object,0,0.0
+Alzheimer’s Diagnosis,object,0,0.0
+Age Group,object,0,0.0
+BMI Category,object,0,0.0
+Cognitive Score Group,object,0,0.0

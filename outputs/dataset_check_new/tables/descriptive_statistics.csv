@@ -1,0 +1,29 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+Country,74283,20,Brazil,3839,,,,,,,
+Age,74283.0,,,,71.96470255643956,12.98074795951372,50.0,61.0,72.0,83.0,94.0
+Gender,74283,2,Female,37249,,,,,,,
+Education Level,74283.0,,,,9.487513966856481,5.757020114227982,0.0,4.0,9.0,14.0,19.0
+BMI,74283.0,,,,26.7806389079601,4.764679483242576,18.5,22.7,26.8,30.9,35.0
+Physical Activity Level,74283,3,High,24853,,,,,,,
+Smoking Status,74283,3,Current,24915,,,,,,,
+Alcohol Consumption,74283,3,Never,24865,,,,,,,
+Diabetes,74283,2,No,59527,,,,,,,
+Hypertension,74283,2,No,52134,,,,,,,
+Cholesterol Level,74283,2,Normal,51973,,,,,,,
+Family History of Alzheimer’s,74283,2,No,52004,,,,,,,
+Cognitive Test Score,74283.0,,,,64.6542412126597,20.153247433825506,30.0,47.0,65.0,82.0,99.0
+Depression Level,74283,3,Medium,24843,,,,,,,
+Sleep Quality,74283,3,Good,25145,,,,,,,
+Dietary Habits,74283,3,Average,24917,,,,,,,
+Air Pollution Exposure,74283,3,High,24906,,,,,,,
+Employment Status,74283,3,Unemployed,24801,,,,,,,
+Marital Status,74283,3,Single,25169,,,,,,,
+Genetic Risk Factor (APOE-ε4 allele),74283,2,No,59561,,,,,,,
+Social Engagement Level,74283,3,Medium,24859,,,,,,,
+Income Level,74283,3,Low,24873,,,,,,,
+Stress Levels,74283,3,Medium,24886,,,,,,,
+Urban vs Rural Living,74283,2,Rural,37203,,,,,,,
+Alzheimer’s Diagnosis,74283,2,No,43570,,,,,,,
+Age Group,74283,5,60 - 69,16672,,,,,,,
+BMI Category,74283,3,Normal,28854,,,,,,,
+Cognitive Score Group,74283,4,Medium,21288,,,,,,,
